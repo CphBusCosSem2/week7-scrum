@@ -1,3 +1,5 @@
 # week7-scrum
-##Day 1 Scrum
-###Vi fokuserer på User Stories og product backlog
+##Day1 Scrum 1
+###Vi fokuserer på User Stories og product-backlog
+##Day2 Scrum 2
+###Vi fokuserer på sprints og sprint-backlog
