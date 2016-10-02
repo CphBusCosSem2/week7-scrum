@@ -7,3 +7,4 @@
 ###Vi fokuserer på sprints og sprint-backlog
 ##Day4 Skemafri
 ##Day5 Review af jeres product-backlog til semester projektet
+###Der vil blive lagt en plan op med rækkefølgen.
